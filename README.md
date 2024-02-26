@@ -12,3 +12,4 @@ Day 01
 4. Nested Routes
 5. Dynamic Routes
 6. Nested Dynamic Routes
+7. MetaData
